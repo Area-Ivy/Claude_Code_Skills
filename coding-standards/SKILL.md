@@ -1,5 +1,5 @@
 ---
-name: coding-standards
+name: coding-standard
 description: 项目代码审查规范和编码标准，用于 CI 自动化代码审查
 auto-activates:
   - "代码审查"
