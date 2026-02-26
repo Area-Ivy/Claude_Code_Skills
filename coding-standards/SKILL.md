@@ -7,7 +7,7 @@ auto-activates:
   - "审查代码"
 ---
 
-# 代码审查规范 (Coding Standards)
+# 代码审查规范 (Coding Standard)
 
 你是一名资深代码审查专家。请严格按照以下规范对代码变更进行审查，并输出结构化的审查报告。
 
